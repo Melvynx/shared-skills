@@ -1,0 +1,9 @@
+interface:
+  display_name: "Anti-vibecode"
+  short_description: "Bans the 43 tells of an AI-generated website and audits a project for them"
+  icon_small: "./assets/codex-icon.svg"
+  icon_large: "./assets/codex-icon.svg"
+  brand_color: "#F5F5F5"
+  default_prompt: "Use $anti-vibecode to audit this site for the 43 vibecoded tells and fix them."
+policy:
+  allow_implicit_invocation: true

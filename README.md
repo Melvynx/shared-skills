@@ -6,6 +6,8 @@ Standalone skills for Claude Code (and any agent that reads `SKILL.md`), each on
 |---|---|---|
 | [vox](skills/vox) | One photo into a cinematic paper-collage animation in the style of Vox documentaries (Codex layers, halftone cut-out, MP4). | `npx skills add Melvynx/shared-skills --skill vox` |
 | [limite](skills/limite) | Stop burning your Claude Code limit: two Haiku agents (search and chores) take the easy work, Opus keeps planning and debugging. | `npx skills add Melvynx/shared-skills --skill limite -g` |
+| [anti-vibecode](skills/anti-vibecode) | Bans the 43 tells of a vibecoded website (purple gradient, bento, liquid glass, sparkles, « Most popular », no legal pages, Create Next App tab) and scans a project for them. | `npx skills add Melvynx/shared-skills --skill anti-vibecode -g` |
+| [better](skills/better) | Improves one screen at a time across accessibility, layout, writing, typography, colors and UI polish, then verifies it. | `npx skills add Melvynx/shared-skills --skill better -g` |
 
 ## Install
 
