@@ -1,0 +1,9 @@
+interface:
+  display_name: "Améliore Système"
+  short_description: "Learn from your Claude Code history: mistakes, skills to create, tasks to automate"
+  icon_small: "./assets/codex-icon.svg"
+  icon_large: "./assets/codex-icon.svg"
+  brand_color: "#F5F5F5"
+  default_prompt: "Use $ameliore-systeme to read my last 7 days of sessions and report what to improve."
+policy:
+  allow_implicit_invocation: false
